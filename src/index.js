@@ -38,6 +38,7 @@ fs.readFile("./src/file.json", 'utf8', (err, data) => {
       return;
     }
     console.log(data);
+    console.log(data);
   });
 
   //5
